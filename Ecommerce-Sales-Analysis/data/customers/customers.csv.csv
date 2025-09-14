@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email,city,country,signup_date
+1,John,Doe,john.doe@email.com,New York,USA,01/12/2023
+2,Mary,Smith,mary.smith@email.com,Los Angeles,USA,02/05/2023
+3,Ravi,Kumar,ravi.kumar@email.com,Chicago,USA,03/18/2023
+4,Sophia,Lee,sophia.lee@email.com,Houston,USA,04/21/2023
+5,David,Brown,david.brown@email.com,San Francisco,USA,05/30/2023

@@ -1,0 +1,6 @@
+order_id,customer_id,order_date,order_status
+1,1,05/01/2023,Completed
+2,2,05/03/2023,Completed
+3,3,05/04/2023,Completed
+4,1,05/10/2023,Returned
+5,4,05/15/2023,Completed
